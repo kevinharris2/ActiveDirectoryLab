@@ -19,7 +19,7 @@ Before starting, ensure you have:
 
 ### **Step 1: Install VirtualBox and Download ISOs**
 - **[0:37]** Install VirtualBox and the Extension Pack:
-  ![VirtualBox Installation](screenshots/step1-virtualbox.png)
+  ![VirtualBox Installation](https://imgur.com/0yhIQMk)
 - **[3:12]** Download the Windows Server 2019 and Windows 10 ISOs:
   ![Download ISOs](screenshots/step1-download-isos.png)
 
