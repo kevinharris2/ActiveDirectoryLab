@@ -132,7 +132,8 @@ Before starting, ensure you have:
 
 #### Run the PowerShell Script
 <p align="center">
-<img src="INSERT_LINK_TO_STEP7_IMAGE" alt="PowerShell Script Execution" width="80%" height="80%" />
+<img src="![image](https://github.com/user-attachments/assets/eaddd602-e3a1-44cd-9f19-857275595237)
+" alt="PowerShell Script Execution" width="80%" height="80%" />
 </p>
 
 ---
