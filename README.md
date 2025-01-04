@@ -50,7 +50,7 @@ Before starting, ensure you have:
 <img src="https://imgur.com/tYbnCtZ.png" alt="Windows Server Installation" width="80%" height="80%" />
 </p>
 
-- Unlock the sign in screen by selecting Input > keyboard > Insert ctr+alt+delete
+- Unlock the sign in screen by selecting Input > keyboard > Insert Ctrl+alt+delete
 
 <p align="center">
 <img src="https://imgur.com/QBqkeQy.png" alt="Windows Server Installation" width="80%" height="80%" />
