@@ -132,17 +132,17 @@ Before starting, ensure you have:
 
 #### Run the PowerShell Script
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/eaddd602-e3a1-44cd-9f19-857275595237)
-" alt="PowerShell Script Execution" width="80%" height="80%" />
+<img src="https://imgur.com/LbiwH45.png" alt="Editing Names File" width="80%" height="80%" />
 </p>
+
 
 ---
 
 ### Step 8: Create the Client VM
 <p align="center">
-<img src="INSERT_LINK_TO_STEP8_IMAGE" alt="Client VM Configuration" width="80%" height="80%" />
+<img src="https://imgur.com/JO2bfHE.png" alt="Client VM Configuration" width="80%" height="80%" />
 </p>
-
+- Name the Vm 'CLIENT1'and make sure adapter 1 is attached to 'Internal network' You can edit the clone server you made earlier 
 ---
 
 ### Step 9: Join the Client to the Domain
