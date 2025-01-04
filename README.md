@@ -158,6 +158,10 @@ Before starting, ensure you have:
 <img src="https://imgur.com/4JSxuHB.png" alt="Client VM Configuration" width="80%" height="80%" />
 </p>
 
+<p align="center">
+<img src="https://imgur.com/n8phUHS.png" alt="Windows Server Installation" width="80%" height="80%" />
+</p>
+
 
 #### Log in with a Domain Account
 <p align="center">
