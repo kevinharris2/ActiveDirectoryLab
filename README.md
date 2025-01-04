@@ -22,20 +22,38 @@ Before starting, ensure you have:
 <img src="https://imgur.com/0yhIQMk.png" alt="VirtualBox Installation" width="80%" height="80%" />
 </p>
 
+- Choose the ISO download for your language
+<p align="center">
+<img src="https://imgur.com/mWB3OTG.png" alt="VirtualBox Installation" width="80%" height="80%" />
+</p>
+
 ---
 
 ### Step 2: Create the Domain Controller VM
+- Customize your VM in settings
+- You can right click to clone your VM along with its settings
 <p align="center">
-<img src="INSERT_LINK_TO_STEP2_IMAGE" alt="Domain Controller Configuration" width="80%" height="80%" />
+<img src="https://imgur.com/GHEaUvl.png" alt="Domain Controller Configuration" width="80%" height="80%" />
 </p>
 
 ---
 
 ### Step 3: Install Windows Server 2019
 <p align="center">
-<img src="INSERT_LINK_TO_STEP3_IMAGE" alt="Windows Server Installation" width="80%" height="80%" />
+<img src="https://imgur.com/15xaMnl.png" alt="Windows Server Installation" width="80%" height="80%" />
 </p>
 
+- Select custom Installation. The server will restart a couple times after selecting next
+
+<p align="center">
+<img src="https://imgur.com/tYbnCtZ.png" alt="Windows Server Installation" width="80%" height="80%" />
+</p>
+
+- Unlock the sign in screen by selecting Input > keyboard > Insert ctr+alt+delete
+
+<p align="center">
+<img src="https://imgur.com/QBqkeQy.png" alt="Windows Server Installation" width="80%" height="80%" />
+</p>
 ---
 
 ### Step 4: Configure the Domain Controller
