@@ -44,6 +44,7 @@ Before starting, ensure you have:
 </p>
 
 - Select custom Installation. The server will restart a couple times after selecting next
+- Create a easy to remember password when prompted
 
 <p align="center">
 <img src="https://imgur.com/tYbnCtZ.png" alt="Windows Server Installation" width="80%" height="80%" />
@@ -59,12 +60,17 @@ Before starting, ensure you have:
 ### Step 4: Configure the Domain Controller
 #### Assign Static IPs
 <p align="center">
-<img src="INSERT_LINK_TO_STEP4_IMAGE" alt="IP Configuration" width="80%" height="80%" />
+<img src="https://imgur.com/n8phUHS.png" alt="IP Configuration" width="80%" height="80%" />
+</p>
+
+<p align="center">
+<img src="https://imgur.com/Vvur0AN.png" alt="IP Configuration" width="80%" height="80%" />
 </p>
 
 #### Install Active Directory Domain Services
+- Select 'Add role and features'
 <p align="center">
-<img src="INSERT_LINK_TO_STEP5_IMAGE" alt="Active Directory Installation" width="80%" height="80%" />
+<img src="https://imgur.com/EB5V23d.png" alt="Active Directory Installation" width="80%" height="80%" />
 </p>
 
 ---
