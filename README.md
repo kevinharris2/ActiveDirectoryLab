@@ -68,6 +68,7 @@ Before starting, ensure you have:
 </p>
 
 #### Install Active Directory Domain Services
+
 - Select 'Add role and features'
 <p align="center">
 <img src="https://imgur.com/EB5V23d.png" alt="Active Directory Installation" width="80%" height="80%" />
@@ -80,9 +81,22 @@ Before starting, ensure you have:
 </p>
 
 - In the upper right corner of your screen select Post Deployment configuration
+  
 <p align="center">
 <img src="https://imgur.com/2SIyS4I.png" alt="Active Directory Installation" width="80%" height="80%" />
 </p>
+
+- Install and create dedicated admin account.
+
+<p align="center">
+<img src="https://imgur.com/bM9cQN3.png" alt="Active Directory Installation" width="80%" height="80%" />
+</p>
+
+
+<p align="center">
+<img src="https://imgur.com/MxIvoTa.png" alt="Active Directory Installation" width="80%" height="80%" />
+</p>
+
 
 ---
 
