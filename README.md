@@ -102,10 +102,23 @@ Before starting, ensure you have:
 <img src="https://imgur.com/BtfGGMt.png" alt="Active Directory Installation" width="80%" height="80%" />
 </p>
 
+- Select NAT in configurations
+<p align="center">
+<img src="https://imgur.com/rGIKw9O.png" alt="Active Directory Installation" width="80%" height="80%" />
+</p>
 
+### Step 6: Install and configure DHCP server. 
+<p align="center">
+<img src="https://imgur.com/v9C3bi8.png" alt="Active Directory Installation" width="80%" height="80%" />
+</p>
+
+- Identify IP address range
+<p align="center">
+<img src="https://imgur.com/nX9NvSm.png" alt="Active Directory Installation" width="80%" height="80%" />
+</p>
 ---
 
-### Step 6: Automate User Creation with PowerShell
+### Step 7: Automate User Creation with PowerShell
 #### Edit `names.txt` File
 <p align="center">
 <img src="INSERT_LINK_TO_STEP6_IMAGE" alt="Editing Names File" width="80%" height="80%" />
@@ -118,21 +131,21 @@ Before starting, ensure you have:
 
 ---
 
-### Step 7: Create the Client VM
+### Step 8: Create the Client VM
 <p align="center">
 <img src="INSERT_LINK_TO_STEP8_IMAGE" alt="Client VM Configuration" width="80%" height="80%" />
 </p>
 
 ---
 
-### Step 8: Join the Client to the Domain
+### Step 9: Join the Client to the Domain
 <p align="center">
 <img src="INSERT_LINK_TO_STEP9_IMAGE" alt="Joining Client to Domain" width="80%" height="80%" />
 </p>
 
 ---
 
-### Step 9: Verify Connectivity
+### Step 10: Verify Connectivity
 #### Check Network Configuration
 <p align="center">
 <img src="INSERT_LINK_TO_STEP10_IMAGE" alt="Verifying Network Configuration" width="80%" height="80%" />
