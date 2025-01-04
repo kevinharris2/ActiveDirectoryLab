@@ -17,70 +17,77 @@ Before starting, ensure you have:
 
 ## 📜 Walkthrough
 
-### **Step 1: Install VirtualBox and Download ISOs**
-- **[0:37]** Install VirtualBox and the Extension Pack:
-  ![VirtualBox Installation](https://imgur.com/0yhIQMk)
-- **[3:12]** Download the Windows Server 2019 and Windows 10 ISOs:
-  ![Download ISOs](screenshots/step1-download-isos.png)
+### Step 1: Install VirtualBox and Download ISOs
+<p align="center">
+<img src="https://imgur.com/0yhIQMk.png" alt="VirtualBox Installation" width="80%" height="80%" />
+</p>
 
 ---
 
-### **Step 2: Create the Domain Controller VM**
-- **[4:42]** Create a new VM named `DC`:
-  - Assign **2GB RAM**, and configure two network adapters:
-    - NAT for internet.
-    - Internal for the private network.
-  ![Domain Controller Configuration](screenshots/step2-dc-configuration.png)
+### Step 2: Create the Domain Controller VM
+<p align="center">
+<img src="INSERT_LINK_TO_STEP2_IMAGE" alt="Domain Controller Configuration" width="80%" height="80%" />
+</p>
 
 ---
 
-### **Step 3: Install Windows Server 2019**
-- **[6:44]** Install Windows Server 2019:
-  - Choose **Standard with Desktop Experience**.
-  - Set the Administrator password to `Password1`.
-  ![Server Installation](screenshots/step3-server-installation.png)
+### Step 3: Install Windows Server 2019
+<p align="center">
+<img src="INSERT_LINK_TO_STEP3_IMAGE" alt="Windows Server Installation" width="80%" height="80%" />
+</p>
 
 ---
 
-### **Step 4: Configure the Domain Controller**
-- **[12:25]** Assign static IPs:
-  - Internal NIC: `172.16.0.1`
-  - Subnet Mask: `255.255.255.0`
-  - DNS Server: `127.0.0.1`
-  ![IP Configuration](screenshots/step4-ip-config.png)
-- **[16:37]** Install Active Directory Domain Services (AD DS):
-  ![AD DS Installation](screenshots/step4-adds-installation.png)
+### Step 4: Configure the Domain Controller
+#### Assign Static IPs
+<p align="center">
+<img src="INSERT_LINK_TO_STEP4_IMAGE" alt="IP Configuration" width="80%" height="80%" />
+</p>
+
+#### Install Active Directory Domain Services
+<p align="center">
+<img src="INSERT_LINK_TO_STEP5_IMAGE" alt="Active Directory Installation" width="80%" height="80%" />
+</p>
 
 ---
 
-### **Step 5: Automate User Creation with PowerShell**
-- **[31:38]** Download the PowerShell script and `names.txt`:
-  - Add your name to the top of `names.txt`.
-  ![Edit Names](screenshots/step5-edit-names.png)
-- **[34:06]** Run the script to create 1,000 users:
-  ![PowerShell Execution](screenshots/step5-powershell-execution.png)
+### Step 5: Automate User Creation with PowerShell
+#### Edit `names.txt` File
+<p align="center">
+<img src="INSERT_LINK_TO_STEP6_IMAGE" alt="Editing Names File" width="80%" height="80%" />
+</p>
+
+#### Run the PowerShell Script
+<p align="center">
+<img src="INSERT_LINK_TO_STEP7_IMAGE" alt="PowerShell Script Execution" width="80%" height="80%" />
+</p>
 
 ---
 
-### **Step 6: Create the Client VM**
-- **[45:59]** Create a new VM named `Client1`:
-  - Assign **4GB RAM** and an **Internal Network** adapter.
-  ![Client VM Configuration](screenshots/step6-client-vm-config.png)
+### Step 6: Create the Client VM
+<p align="center">
+<img src="INSERT_LINK_TO_STEP8_IMAGE" alt="Client VM Configuration" width="80%" height="80%" />
+</p>
 
 ---
 
-### **Step 7: Join the Client to the Domain**
-- **[55:03]** Rename the client computer to `Client1` and join it to `mydomain.com`:
-  ![Join Domain](screenshots/step7-join-domain.png)
+### Step 7: Join the Client to the Domain
+<p align="center">
+<img src="INSERT_LINK_TO_STEP9_IMAGE" alt="Joining Client to Domain" width="80%" height="80%" />
+</p>
 
 ---
 
-### **Step 8: Verify Connectivity**
-- **[54:13]** Check network connectivity:
-  - Run `ipconfig` to confirm the client received an IP from DHCP.
-  ![IP Configuration Verification](screenshots/step8-ip-verification.png)
-- **[59:08]** Log in to the client using a domain account.
-  ![Domain Login](screenshots/step8-domain-login.png)
+### Step 8: Verify Connectivity
+#### Check Network Configuration
+<p align="center">
+<img src="INSERT_LINK_TO_STEP10_IMAGE" alt="Verifying Network Configuration" width="80%" height="80%" />
+</p>
+
+#### Log in with a Domain Account
+<p align="center">
+<img src="INSERT_LINK_TO_STEP11_IMAGE" alt="Logging in with Domain Account" width="80%" height="80%" />
+</p>
 
 ---
 
@@ -106,4 +113,6 @@ For questions or feedback, feel free to reach out:
 ---
 
 ## Screenshots Folder
-Place all screenshots in the `screenshots/` folder to keep the repository organized. Ensure screenshots match the filenames referenced above.
+- Place all screenshots in the `screenshots/` folder.
+- Replace `INSERT_LINK_TO_STEPX_IMAGE` with the appropriate file path or URL to your `.png` images.
+
