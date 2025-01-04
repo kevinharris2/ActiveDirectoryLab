@@ -116,6 +116,10 @@ Before starting, ensure you have:
 <p align="center">
 <img src="https://imgur.com/nX9NvSm.png" alt="Active Directory Installation" width="80%" height="80%" />
 </p>
+
+<p align="center">
+<img src="https://imgur.com/orfP92c.png" alt="Active Directory Installation" width="80%" height="80%" />
+</p>
 ---
 
 ### Step 7: Automate User Creation with PowerShell
