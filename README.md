@@ -180,10 +180,7 @@ Before starting, ensure you have:
 
 ---
 
-## Contact
-For questions or feedback, feel free to reach out:
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
+
 
 ---
 
