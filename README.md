@@ -147,7 +147,7 @@ Before starting, ensure you have:
 
 ### Step 9: Join the Client to the Domain
 <p align="center">
-<img src="INSERT_LINK_TO_STEP9_IMAGE" alt="Joining Client to Domain" width="80%" height="80%" />
+<img src="https://imgur.com/uUO6kEc.png" alt="Client VM Configuration" width="80%" height="80%" />
 </p>
 
 ---
