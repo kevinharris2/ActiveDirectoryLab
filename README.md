@@ -123,9 +123,11 @@ Before starting, ensure you have:
 ---
 
 ### Step 7: Automate User Creation with PowerShell
+
+### extract and then open 'names' plain text file 
 #### Edit `names.txt` File
 <p align="center">
-<img src="INSERT_LINK_TO_STEP6_IMAGE" alt="Editing Names File" width="80%" height="80%" />
+<img src="https://imgur.com/1OFOhZK.png" alt="Editing Names File" width="80%" height="80%" />
 </p>
 
 #### Run the PowerShell Script
