@@ -155,12 +155,13 @@ Before starting, ensure you have:
 ### Step 10: Verify Connectivity
 #### Check Network Configuration
 <p align="center">
-<img src="INSERT_LINK_TO_STEP10_IMAGE" alt="Verifying Network Configuration" width="80%" height="80%" />
+<img src="https://imgur.com/4JSxuHB.png" alt="Client VM Configuration" width="80%" height="80%" />
 </p>
+
 
 #### Log in with a Domain Account
 <p align="center">
-<img src="INSERT_LINK_TO_STEP11_IMAGE" alt="Logging in with Domain Account" width="80%" height="80%" />
+<img src="https://imgur.com/E5Smo7j.png" alt="Client VM Configuration" width="80%" height="80%" />
 </p>
 
 ---
