@@ -97,6 +97,11 @@ Before starting, ensure you have:
 <img src="https://imgur.com/MxIvoTa.png" alt="Active Directory Installation" width="80%" height="80%" />
 </p>
 
+### Step 5: Install remote access and network address translation RAS / NAT
+<p align="center">
+<img src="https://imgur.com/BtfGGMt.png" alt="Active Directory Installation" width="80%" height="80%" />
+</p>
+
 
 ---
 
